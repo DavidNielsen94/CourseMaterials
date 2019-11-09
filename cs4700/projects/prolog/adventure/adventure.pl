@@ -218,7 +218,7 @@ name(ser_conference,"The SER Conference Room").
 name(small_disk,"small energy disk").
 name(spaghetti, "Spaghetti").
 name(special_collections,"Special Collections Room").
-name(stove, "A Kitchen Stove.").
+name(kitchen_stove, "A Kitchen Stove.").
 name(tower_of_pizza_boxes,"tower of pizza boxes").
 name(tsc,"Taggart Student Center").
 name(tsc_patio,"Patio of the TSC").
@@ -292,7 +292,7 @@ short_desc(ser_basement,"The basement of the SER building.").
 short_desc(small_disk,"a small disk glowing with alien energy").
 short_desc(spaghetti, "The food of champions.").
 short_desc(special_collections,"the 'special' section of the library. Holds the more important and classical books.").
-short_desc(stove, "A kitchen stove for cooking food.").
+short_desc(kitchen_stove, "A kitchen stove for cooking food.").
 short_desc(tower_of_pizza_boxes,"A stack of (hopefully) empty pizza boxes").
 short_desc(tsc,"community center for students, faculty, and alumni").
 short_desc(tsc_patio,"a place to sit an study or eat outside the TSC.").
@@ -364,7 +364,7 @@ long_desc(ser_basement, "Behind every door is another labrotory. The hallways ar
 long_desc(small_disk,"A small disk pulsates in your hand, glowing an toxic green color as it breathes slowly, a slight warm gasey feel pukes from the disk.").
 long_desc(spaghetti, "These long thin pasta noodles are a staple for a student on a budget. So much better than ramen, can be combined with various sauces for maximum effect.").
 long_desc(special_collections,"a small section of the library that is home to all sorts of extrordiary books. You can read up on Russian Literature, Classic Dickens, Alchemy, and even more!").
-long_desc(stove, "A stove splattered with various substances that you assume, or at least hope used was food.").
+long_desc(kitchen_stove, "A stove splattered with various substances that you assume, or at least hope used was food.").
 long_desc(tower_of_pizza_boxes,"Domino's, Pizza-Hut, Little Ceaser's and more. All are rendered equal in this towering graveyard of cardboard.").
 long_desc(tsc,"This massive building is the perfect place to go to spend way too much money on overpriced things... You'll find students eating, studying, socializing, and lamenting their massive student debts.").
 long_desc(tsc_patio,"An open area with birds chirping and hipsters drinking their coffee. You won't find any CS majors here as they're all in cavedwelling in Old Main.").
