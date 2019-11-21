@@ -144,6 +144,7 @@ create_recipe(laser,[bone],charged_bone).
 create_recipe(wash_machine,[dirty_clothes,laundry_soap],clean_clothes).
 create_recipe(vending_machine, [money], bag_of_chips).
 
+heavy(kitchen_stove).
 heavy(bunsen_burner).
 heavy(closet).
 heavy(kitchen_trashcan).
